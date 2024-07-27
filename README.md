@@ -17,22 +17,22 @@ Mentor : Santhosh Kumar
 
 
 
-Overview of the Project 
+**Overview of the Project** 
 
 
 
-Project : Natural language processing (NLP) problem such as sentiment analysis or text classification.
+**Project** : Natural language processing (NLP) problem such as sentiment analysis or text classification.
 
 
 
-Objective
+**Objective**
 
 
 The objective of the project is to focus on enabling computers to understand, interpret, and generate human language. This is the sentiment140 dataset.
 It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment.
 
 
-Key activities : 
+**Key activities :**
 
 
 Importing Twitter Sentiment dataset
@@ -48,6 +48,54 @@ Splitting the data to training data and test data
 Training the Machine Learning Model
 
 Using the saved model for future predictions
+
+
+**Technologies Used:**
+
+
+Python : The primary programming language for Sentiment Analysis
+
+Pandas : used for data manipulation and analysis
+
+Numpy : used for working with arrays
+
+Sklearn Linear Model
+
+Linear Regression Model
+
+
+**Result of the project**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
