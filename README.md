@@ -74,10 +74,11 @@ Linear Regression Model
 
 
 
+![Screenshot 2024-07-27 181434](https://github.com/user-attachments/assets/1c399588-d511-4bbb-91c5-b113b39bf9ea)
 
 
 
-![Uploading Screenshot 2024-07-27 181434.png…]()
+
 
 
 
