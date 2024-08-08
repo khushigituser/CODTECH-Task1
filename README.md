@@ -77,6 +77,7 @@ Linear Regression Model
 
 
 
+![Uploading Screenshot 2024-07-27 181434.png…]()
 
 
 
